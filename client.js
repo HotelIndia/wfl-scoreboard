@@ -9,7 +9,7 @@ const DEFAULT_TIMER_CENTISECONDS = 20 * 60 * CENTISECONDS_PER_SECOND;
 const TIMER_UPDATE_INTERVAL_MS = 50;
 const TEAMS = {
   riverdale: { name: "Riverdale FC", color: "green" },
-  grizzlies: { name: "Grizzlies FC", color: "blue" },
+  grizzlies: { name: "Grizzlies FC", color: "#e65c73" },
   northOf60: { name: "North of 60", color: "red" },
   latinLovers: { name: "Latin Lovers", color: "magenta" },
   porcupine: { name: "Porcupine FC", color: "whitesmoke" },
